@@ -1,0 +1,70 @@
+body{
+    background-color:rgba(236, 108, 58, 0.5) ;
+    font-family:Sans-serif;
+    margin: auto;
+    width:60% ;
+
+}
+h1{
+    font-size:150px;
+    color: brown;
+}
+h2{
+    font-size: 100px;
+    color: sienna;
+}
+.name{
+    font-size: 130px;
+    
+}
+p{
+    font-size: 40px;
+}
+table, th, td {
+    font-size: 30px;
+    border: 2px solid blueviolet;
+    background-color: rgba(211, 247, 247, 0.5);
+}
+li{
+    font-size: 40px;
+}
+.return{
+    font-size: 40px;
+}
+img{
+    width: 250px;
+    height: 200px;
+    padding: 0px;
+    border-style: dashed;
+    border-color: saddlebrown;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-bottom: 10px;
+}
+video{
+    width: 250px;
+    height: 200px;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-bottom: 10px;
+    margin-top: 10px;
+    border: 5px inset sienna;
+}
+#logo{
+    float: left;
+}
+ul{
+    position : fixed;
+    top: 200px;
+    border-right: 5px solid sienna;
+    right: 3px;
+}
+a{
+    font-size: 40px;
+}
+section{
+    margin-bottom: 10px;
+}
+.recipes{
+    margin-bottom: 10px;
+}
